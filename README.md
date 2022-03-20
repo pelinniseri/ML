@@ -2,13 +2,13 @@
 
 ### Feature Names and Descriptions 
 Age \
-Sex \
+Sex 
 
-CP: cp: chest pain type
--- Value 1: typical angina
--- Value 2: atypical angina
--- Value 3: non-anginal pain
--- Value 4: asymptomatic
+CP: cp: chest pain type \
+- Value 1: typical angina \
+- Value 2: atypical angina \
+- Value 3: non-anginal pain \
+- Value 4: asymptomatic \
 Chol: stands for Cholesterol. \
 FBS: stands for Fasting Blood Sugar. Elevated levels are associated with diabetes and insulin resistance, in which the body cannot properly handle sugar.
 stands for Resting Electrocardiographic \
