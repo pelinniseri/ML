@@ -20,3 +20,6 @@ From, literature it is found that 13 attributes: age, sex, cp, trestbps, chol, f
 Source:
 - https://archive.ics.uci.edu/ml/datasets/heart%2BDisease
 - https://www.ijrte.org/wp-content/uploads/papers/v8i2S3/B11630782S319.pdf
+
+
+-Our first doc link : https://docs.google.com/document/d/1_ISYWkacho_VjHZHDGg_DdPZRuq7Hc38fsIr0eFTddo/edit
