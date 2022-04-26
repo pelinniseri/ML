@@ -23,3 +23,5 @@ Source:
 
 
 -Our first doc link : https://docs.google.com/document/d/1_ISYWkacho_VjHZHDGg_DdPZRuq7Hc38fsIr0eFTddo/edit
+
+-Knn ve logistic eklendi (26.04.22) / Knn değerleri çok kötü
